@@ -1,11 +1,13 @@
-# Hi, I'm Ana Bea
+# Hi, I'm Ana Bea!
 
-🚀 **Student of Systems Analysis and Development | IT Internship | Systems, Data, and Process Support**  
+🚀 **Student of Systems Analysis and Development | Exploring Data & AI | Building my path into Data Analytics**
 🇧🇷 Brazil
 
-Student of **Systems Analysis and Development**, with experience in organizing, standardizing, and controlling information in a corporate environment, working on structuring data and technical documents for multidisciplinary teams, contributing to reduced rework, greater process agility, and better access to information.
+Student of **Systems Analysis and Development (ADS)**, currently expanding my path toward **Data & AI** through hands-on courses, a specialized bootcamp, and practical mini-projects.
 
-Possesses a foundation in logical and algorithmic thinking, programming fundamentals, and **initial knowledge of systems**, hardware, and software, with a profile geared towards an IT internship, **especially in systems support, data organization, and internal process improvement**.
+I bring a foundation in **logical and algorithmic thinking**, programming fundamentals, and structured problem-solving — combined with prior professional experience organizing, standardizing, and structuring information in corporate environments. I'm now actively building data literacy skills: prompt engineering, AI-assisted analysis, and data organization, with the goal of growing into a **Data & AI** role.
+
+📌 Currently enrolled in the **Bradesco Bootcamp (GenAI, Data & Cyber)** and continuously exploring how AI tools can support data-driven decision-making.
 
 ---
 
@@ -17,37 +19,37 @@ Possesses a foundation in logical and algorithmic thinking, programming fundamen
   </a>
   <a href="https://www.instagram.com/abnasc?igsh=bHI5aHdldWZlcHBl&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-@ABNASC-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 What I do
+## 🧠 What I'm building toward
 
--   Data organization and standardization
--   Corporate information structuring
--   Logical thinking and basic programming
--   Basic systems and technology support
--   Internal process improvement
+- 📊 Data organization, structuring, and analysis
+- 🤖 Prompt Engineering applied to data & business problems
+- 🧩 Logical thinking, algorithms, and programming fundamentals
+- 📈 Learning AI-assisted analysis workflows (currently exploring tools like NotebookLM)
+- 🔍 Actively studying: data literacy, GenAI applications, and process improvement
+
+> Currently in a learning phase — building real, hands-on mini-projects instead of just collecting certificates. Transparency over overselling.
 
 ---
 
+## 📂 Featured Project
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+**[Prompt Engineering para Análise de Dados (NotebookLM)](https://github.com/anabeanasc/prompt-engineering-analise-dados-notebooklm-)**
+A study notebook exploring how small businesses without a dedicated data analyst can use structured prompts and AI to extract reliable insights from spreadsheets — including techniques to reduce hallucination (Chain of Thought, Few-Shot) and a reusable prompt template.
 
 ---
 
 ## 🚀 Philosophy
 
-> "Book of Proverbs 19:21 says:
-“Many are the plans in a person’s heart, but the Lord’s purpose prevails.”
+> Proverbs 19:21 —
+> "Many are the plans in a person's heart, but the Lord's purpose prevails."
 
 ---
 
-- If you like my work, consider starring a repository  
-- Always open to collaborations, partnerships, and cool ideas
+⭐ If you like my work, consider starring a repository
+
+🤝 Always open to collaborations, partnerships, and cool ideas
