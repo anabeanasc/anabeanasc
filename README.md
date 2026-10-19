@@ -70,13 +70,9 @@ logical thinking, analysis, and AI that actually helps people decide better.
 
 </div>
 
-<img src="./assets/h-stats.svg" width="100%" alt="Activity" />
+<img src="./assets/h-stats.svg" width="100%" alt="Activity report" />
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-purple.svg" width="100%" alt="3D contribution graph" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=anabeanasc&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&stroke=1e3a8a&sideNums=c4b5fd&dates=8b949e&sideLabels=e6edf3&currStreakNum=ede9fe" width="70%" alt="GitHub streak" />
-</div>
+<img src="./assets/activity-sheet.svg" width="100%" alt="Monthly contributions spreadsheet" />
 
 <img src="./assets/h-beyond.svg" width="100%" alt="Beyond code" />
 
