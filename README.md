@@ -1,55 +1,88 @@
-# Hi, I'm Ana Bea!
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Ana Beatriz — Data & AI" />
+</div>
 
-🚀 **Student of Systems Analysis and Development | Exploring Data & AI | Building my path into Data Analytics**
-🇧🇷 Brazil
+<br/>
 
-Student of **Systems Analysis and Development (ADS)**, currently expanding my path toward **Data & AI** through hands-on courses, a specialized bootcamp, and practical mini-projects.
+<img src="./assets/h-who-i-am.svg" width="100%" alt="Who I am" />
 
-I bring a foundation in **logical and algorithmic thinking**, programming fundamentals, and structured problem-solving — combined with prior professional experience organizing, standardizing, and structuring information in corporate environments. I'm now actively building data literacy skills: prompt engineering, AI-assisted analysis, and data organization, with the goal of growing into a **Data & AI** role.
+```text
+Hey, I'm Ana Beatriz — a Systems Analysis & Development (ADS) student from Brazil 🇧🇷
+building my path into Data & AI.
 
-📌 Currently enrolled in the **Bradesco Bootcamp (GenAI, Data & Cyber)** and continuously exploring how AI tools can support data-driven decision-making.
+Before code, I spent years organizing, standardizing and structuring information in
+corporate environments. Now I'm turning that instinct for order into data skills:
+logical thinking, analysis, and AI that actually helps people decide better.
+```
 
----
+<img src="./assets/h-what-i-do.svg" width="100%" alt="What I'm building" />
 
-## 🌐 Where to find me
+```text
+📊  Data organization, structuring and analysis
+🤖  Prompt engineering applied to data & business problems
+🧩  Algorithms, logic and programming fundamentals
+📈  AI-assisted analysis workflows (NotebookLM & friends)
+```
 
-<p align="left">
-  <a href="https://github.com/anabeanasc">
-    <img src="https://img.shields.io/badge/GitHub-ANABEANASC-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/abnasc?igsh=bHI5aHdldWZlcHBl&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-@ABNASC-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<img src="./assets/h-now.svg" width="100%" alt="Right now" />
 
----
+```text
+▸ Bradesco Bootcamp — GenAI, Data & Cyber           [ in progress ]
+▸ Systems Analysis & Development degree             [ in progress ]
+▸ Shipping hands-on mini-projects, not collecting certificates.
+  Transparency over overselling.
+```
 
-## 🧠 What I'm building toward
+<img src="./assets/h-connect.svg" width="100%" alt="Connect" />
 
-- 📊 Data organization, structuring, and analysis
-- 🤖 Prompt Engineering applied to data & business problems
-- 🧩 Logical thinking, algorithms, and programming fundamentals
-- 📈 Learning AI-assisted analysis workflows (currently exploring tools like NotebookLM)
-- 🔍 Actively studying: data literacy, GenAI applications, and process improvement
+<div align="center">
+<table>
+  <tr>
+    <th>LinkedIn</th>
+    <th>Instagram</th>
+    <th>GitHub</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/abnasc"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a></td>
+    <td align="center"><a href="https://www.instagram.com/abnasc"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a></td>
+    <td align="center"><a href="https://github.com/anabeanasc"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></a></td>
+  </tr>
+</table>
+</div>
 
-> Currently in a learning phase — building real, hands-on mini-projects instead of just collecting certificates. Transparency over overselling.
+<img src="./assets/h-project.svg" width="100%" alt="Featured project" />
 
----
+<a href="https://github.com/anabeanasc/prompt-engineering-analise-dados-notebooklm-">
+  <img src="./assets/project-card.svg" width="100%" alt="Prompt Engineering para Análise de Dados" />
+</a>
 
-## 📂 Featured Project
+<img src="./assets/h-skills.svg" width="100%" alt="Skill set" />
 
-**[Prompt Engineering para Análise de Dados (NotebookLM)](https://github.com/anabeanasc/prompt-engineering-analise-dados-notebooklm-)**
-A study notebook exploring how small businesses without a dedicated data analyst can use structured prompts and AI to extract reliable insights from spreadsheets — including techniques to reduce hallucination (Chain of Thought, Few-Shot) and a reusable prompt template.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,html,css,js,vscode&perline=9&theme=dark" height="48" alt="Tech stack" />&nbsp;<img src="./assets/claude-code.svg" height="48" alt="Claude Code" title="Claude Code" />
 
-## 🚀 Philosophy
+<br/><br/>
 
-> Proverbs 19:21 —
-> "Many are the plans in a person's heart, but the Lord's purpose prevails."
+<img src="https://img.shields.io/badge/Prompt_Engineering-2e1065?style=for-the-badge&logo=openai&logoColor=c4b5fd" alt="Prompt Engineering" /> <img src="https://img.shields.io/badge/NotebookLM-2e1065?style=for-the-badge&logo=google&logoColor=c4b5fd" alt="NotebookLM" /> <img src="https://img.shields.io/badge/Excel-2e1065?style=for-the-badge&logo=googlesheets&logoColor=c4b5fd" alt="Excel" /> <img src="https://img.shields.io/badge/Power_BI-2e1065?style=for-the-badge&logo=powerbi&logoColor=c4b5fd" alt="Power BI" /> <img src="https://img.shields.io/badge/Data_Analysis-2e1065?style=for-the-badge&logo=databricks&logoColor=c4b5fd" alt="Data Analysis" />
 
----
+</div>
 
-⭐ If you like my work, consider starring a repository
+<img src="./assets/h-stats.svg" width="100%" alt="Activity" />
 
-🤝 Always open to collaborations, partnerships, and cool ideas
+<div align="center">
+  <img src="./profile-3d-contrib/profile-purple.svg" width="100%" alt="3D contribution graph" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=anabeanasc&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&stroke=1e3a8a&sideNums=c4b5fd&dates=8b949e&sideLabels=e6edf3&currStreakNum=ede9fe" width="70%" alt="GitHub streak" />
+</div>
+
+<img src="./assets/h-beyond.svg" width="100%" alt="Beyond code" />
+
+```text
+"Many are the plans in a person's heart,
+ but the Lord's purpose prevails."                          — Proverbs 19:21
+```
+
+<div align="center">
+  <sub>⭐ If something here helps you, leave a star · 🤝 always open to collaborations and good ideas</sub>
+</div>
