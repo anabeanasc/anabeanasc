@@ -41,11 +41,13 @@ logical thinking, analysis, and AI that actually helps people decide better.
     <th>LinkedIn</th>
     <th>Instagram</th>
     <th>GitHub</th>
+    <th>Discord</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/abnasc"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a></td>
     <td align="center"><a href="https://www.instagram.com/abnasc"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a></td>
     <td align="center"><a href="https://github.com/anabeanasc"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></a></td>
+    <td align="center"><a href="https://discord.gg/WDFd6QZ2dX"><img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord" /></a></td>
   </tr>
 </table>
 </div>
